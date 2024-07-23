@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FireRedprogramador
 - 👀 I am interested in multiple programming languages,
 - web development and the multiple knowledge that this world and its technology
-- that never stops growing offers.
+- that never stops growing .
 - 🌱 I am currently learning Python, English, Excel and one or another
 - language for web development.
 
